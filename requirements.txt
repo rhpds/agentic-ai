@@ -1,0 +1,7 @@
+ipykernel 
+jupyter
+anthropic
+python-dotenv
+graphviz
+
+llama_stack_client
