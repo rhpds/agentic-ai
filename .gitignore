@@ -1,8 +1,8 @@
 notebook/__pycache__/
+.ipynb_checkpoints/
 *.pyc
 .DS_Store
 .env
 .summit/
 notebook/nb-2.ipynb
-.ipynb_checkpoints/
 notebook/.ipynb_checkpoints/
