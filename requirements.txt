@@ -5,3 +5,5 @@ python-dotenv
 graphviz
 
 llama_stack_client
+openai
+openai-agents
