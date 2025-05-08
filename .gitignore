@@ -1,3 +1,4 @@
+.vscode/
 notebook/__pycache__/
 .ipynb_checkpoints/
 *.pyc
